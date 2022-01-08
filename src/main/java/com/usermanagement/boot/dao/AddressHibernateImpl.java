@@ -10,7 +10,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import com.usermanagement.boot.entity.Address;
-import com.usermanagement.boot.entity.Users;
 
 @Repository
 public class AddressHibernateImpl implements AddressDao {
